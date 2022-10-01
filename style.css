@@ -3,6 +3,8 @@ body{
     margin: 0;
     overflow-x: hidden;
     font-family: sans-serif;
+    color: aliceblue;
+    background-color: black;
 }
 .header{
     width: 100%;
@@ -10,7 +12,7 @@ body{
     align-items: center;
     justify-content: space-between;
     padding: 10px;
-    background-color: rgb(4, 82, 146);
+    background-color: rgb(155, 6, 73);
 }
 .header img {
     width: 49px;
@@ -53,6 +55,8 @@ p{
     max-width: 20%;
     border: 1px solid black;
     padding: 15px;
+    background-color: rgb(66, 20, 36);
+    border-radius: 7px;
     
 }
 .card img{
